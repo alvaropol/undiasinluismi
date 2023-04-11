@@ -18,3 +18,11 @@ touch 2.txt
 git commit -am "commit rama v0.2"
 git push --all
 git merge v0.2
+
+git branch --help
+git branch --merged
+git branch --no-merged
+
+
+
+git branch -d v0.2
