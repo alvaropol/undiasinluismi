@@ -23,6 +23,4 @@ git branch --help
 git branch --merged
 git branch --no-merged
 
-
-
 git branch -d v0.2
