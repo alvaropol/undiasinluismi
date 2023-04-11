@@ -15,3 +15,6 @@ git push
 
 git checkout -b v0.2
 touch 2.txt
+git commit -am "commit rama v0.2"
+git push --all
+git merge v0.2
